@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Shuriken",
     "creativeTab": {
-      "value": "CUSTOM:KiloreTab"
+      "value": "CUSTOM:Minimod"
     },
     "stackSize": 64,
     "ammoItem": {
